@@ -90,6 +90,9 @@ mistune==0.8.4
 more-itertools==8.10.0
 mpmath==1.2.1
 multidict==6.0.3
+mysql==0.0.3
+mysqlclient==2.2.4
+mysql-connector-python==8.4.0
 nbclient==0.5.5
 nbconvert==6.2.0
 nbformat==5.5.0
@@ -152,6 +155,7 @@ shapely==2.0.1
 six==1.16.0
 slippy==0.3.1
 smmap==5.0.0
+SQLAlchemy==2.0.3
 statsmodels==0.13.5
 streamlit==1.23.1
 streamlit-folium==0.13.0
